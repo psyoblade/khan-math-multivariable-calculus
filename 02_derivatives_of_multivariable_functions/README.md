@@ -8,5 +8,5 @@
 ### Second partial derivatives
 > Technically, the symmetry of second derivatives is not always true. There is a theorem, referred to variously as Schwarz's theorem or Clairaut's theorem, which states that symmetry of second derivatives will always hold at a point if the second partial derivatives are *continuous* around that point. To really get into the meat of this, we'd need some real analysis.
 
-![Second partial derivatives](/images/second_partial_derivatives.png)
+![Second partial derivatives](images/second_partial_derivatives.png)
 
