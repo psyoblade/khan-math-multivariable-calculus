@@ -14,3 +14,4 @@
 
 ### 3. The Gradient
 > If you imagine standing at a point (x0,y0,…) in the input space of fff, the vector ∇f(x0,y0,…) tells you which direction you should travel to increase the value of fff most rapidly.
+> These gradient vectors—∇f(x0,y0,…)—are also perpendicular to the contour lines of f.
